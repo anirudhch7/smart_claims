@@ -206,7 +206,6 @@ REPRICING_RULES = {
 - All API endpoints require Firebase JWT authentication
 - File uploads are validated and sanitized
 - Sensitive data is encrypted in transit and at rest
-- HIPAA-compliant data handling practices
 
 ## Performance
 
