@@ -2,7 +2,6 @@
 
 A comprehensive healthcare claims processing platform that leverages machine learning to detect anomalies, optimize repricing, and maximize cost savings.
 
-
 ## Features
 
 ### 🔐 Authentication & Security
